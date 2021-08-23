@@ -1,8 +1,12 @@
 
 
-### Below are the results of comparing deep learning recurrent neural networks LSTM models for Fear and Greed sentiment affect on prices vs window Closing price model.
+### Below are the results of comparing deep learning recurrent neural networks LSTM models for Fear and Greed sentiment affect on prices vs window Closing price model
 
-#### We see that the Fear and Greed Sentiment on its own is lesser of predicator of price of BTC in comparison to window of closing prices model. We kept the architecture same for both models and ran the models for different batch sizes. 
+
+
+**We see that the Fear and Greed Sentiment on its own is lesser of predicator of price of BTC in comparison to window of closing prices model. We kept the architecture same for both models and ran the models for different batch sizes.** 
+
+**We also saw that batch size 90 did better than other lower batch sizes.**
 
 
 

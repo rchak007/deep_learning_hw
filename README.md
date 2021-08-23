@@ -1,3 +1,13 @@
+# Solutions
+
+1. **Compare results FNG Close prices RNN models.md (has the final comparisons and analysis)**
+2. **lstm_stock_predictor_fng.ipynb (final Jupyter notebook for Fear and Green deep learning recurrent neural networks  )**
+3. **lstm_stock_predictor_closing.ipynb (final Jupyter notebook for window of closing prices deep learning recurrent neural networks  )**
+
+
+
+
+
 # LSTM Stock Predictor
 
 ![deep-learning.jpg](Images/deep-learning.jpg)
@@ -19,6 +29,10 @@ You will need to:
 [Closing Prices Starter Notebook](Starter_Code/lstm_stock_predictor_closing.ipynb)
 
 [FNG Starter Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb)
+
+
+
+
 
 - - -
 
